@@ -1,0 +1,8 @@
+id,active,keyword,news
+116,1,"""actualités""",0
+149,1,"""annonce""",0
+154,1,"""controverses"" OR ""problème"" OR ""litige""",0
+153,1,"""événement"" OR ""séminaire"" OR ""atelier""",0
+151,1,"""lancement de produit"" OR ""nouveau service""",0
+152,1,"""nomination"" OR ""départ"" OR ""nouveau dirigeant""",0
+150,1,"""partenariat"" OR ""collaboration""",0
